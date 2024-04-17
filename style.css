@@ -97,12 +97,13 @@ span{
 }
 article{
     text-align: justify;
+    
 }
 .imagens{
     display: block;
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
+    
+    margin: auto;
+    
 }
 iframe{
     background-color: #063D1E;
