@@ -99,6 +99,11 @@ article{
     text-align: justify;
     
 }
+picture > img{
+    display: block;
+    width: auto;
+    margin: auto;
+}
 .imagens{
     display: block;
     max-width: 90%;
