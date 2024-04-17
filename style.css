@@ -101,7 +101,7 @@ article{
 }
 .imagens{
     display: block;
-    
+    max-width: 90%;
     margin: auto;
     
 }
