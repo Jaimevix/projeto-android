@@ -109,7 +109,7 @@ iframe{
     margin-bottom: 15px;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 80%;
     position: absolute;
 }
 .video{
@@ -118,6 +118,7 @@ iframe{
     margin-left: auto;
     margin-right: auto;
     position: relative;
+    
 }
 article > h3{
     background-image: linear-gradient(to right, #3ddc8570, #2fa8653d, white);
